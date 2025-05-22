@@ -1,0 +1,3 @@
+# Tell GitHub linguist to ignore template and static files for language stats
+templates/* linguist-vendored
+static/* linguist-vendored
